@@ -23,7 +23,9 @@ Datasets encompass:
 
 ## Repository Contents
 - **01 Project Management**: Project brief.
+- **02 Data**: Original and Prepared Data.
 - **03 Scripts**: Python scripts for data analysis.
+- **04 Analysis**: Visualizations.
 
 ## Key Findings
 Visualized through Tableau, the analysis covers:
@@ -34,6 +36,6 @@ Visualized through Tableau, the analysis covers:
 - Sales data correlation.
 
 ## Additional Notes
-Scripts are provided to replicate the analysis. Full datasets are referenced due to their size.
+Scripts are provided to replicate the analysis.
 
 Discover more in the [Tableau Visualization](https://public.tableau.com/views/Exercise6_7_17131445717350/ExploringBrazilsE-CommerceLandscape?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
